@@ -1,0 +1,4 @@
+= choctop-tool
+
+Choctop used to have a dependency on RubyCocoa. This made people sad. Now it only depends on this shim, which makes people less sad (unless they read the code).
+

@@ -34,6 +34,7 @@
 		7DD6A8ED11BFF3A0003C65CE /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		7DD6A91911BFF84B003C65CE /* ImageUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageUtils.h; sourceTree = "<group>"; };
 		7DD6A91A11BFF84B003C65CE /* ImageUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageUtils.m; sourceTree = "<group>"; };
+		7DD6A98711C19B94003C65CE /* README.rdoc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.rdoc; sourceTree = "<group>"; };
 		8DD76FA10486AA7600D96B5E /* choctop-tool */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "choctop-tool"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6859EA3029092ED04C91782 /* choctop-tool.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = "choctop-tool.1"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,6 +94,7 @@
 		C6859EA2029092E104C91782 /* Documentation */ = {
 			isa = PBXGroup;
 			children = (
+				7DD6A98711C19B94003C65CE /* README.rdoc */,
 				C6859EA3029092ED04C91782 /* choctop-tool.1 */,
 			);
 			name = Documentation;
